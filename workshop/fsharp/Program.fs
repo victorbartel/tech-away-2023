@@ -1,5 +1,5 @@
 
-// TODO Part 1, function composition
+// TODO Part 1, function composition (you can use https://try.fsharp.org/)
 
 // Given function composition
 let (>>) f g x = g(f(x))
